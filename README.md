@@ -1,2 +1,2 @@
 # discord
-A discord bot which implements a chat GPT-4 implementation.
+A discord bot which implements functions with GPT api, plays music and much more.
